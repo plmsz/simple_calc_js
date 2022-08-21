@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-Aplicacação desenvolvida para o curso da GamaAcademy para revisar fundamentos de Javascript. Veja a [calculadora](https://plmsz.github.io/simple_calc_js/) </p> 
+Aplicacação desenvolvida para o curso da GamaAcademy para revisar fundamentos de Javascript.</p> 
 <br />
 <div align="center">
   <img src="https://img.shields.io/static/v1?label=Status&message=WIP&color=F46D01&style=for-the-badge"/>
